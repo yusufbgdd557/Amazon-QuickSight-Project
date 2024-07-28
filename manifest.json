@@ -1,7 +1,7 @@
 {
     "fileLocations": [
       {
-        "URIPrefixes": [
+        "URIs": [
           "s3://your-bucket-name/netflix_titles.csv"
         ]
       }
