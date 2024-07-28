@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+      {
+        "URIPrefixes": [
+          "s3://your-bucket-name/netflix_titles.csv"
+        ]
+      }
+    ],
+    "globalUploadSettings": {
+      "format": "CSV",
+      "delimiter": ",",
+      "textqualifier": "\"",
+      "containsHeader": "true"
+    }
+  }
