@@ -40,7 +40,7 @@ Edit the `manifest.json` file by replacing the placeholder S3 URI with the actua
 ```
 
 ### Step 2: Create a QuickSight Account
-Create a QuickSight account. The free trial lasts for 30 days and setting up the account takes just a minute.
+Create a QuickSight account. (Don't forget to delete your QuickSight account if you don't want to be charged after the free trial ends!)
 
 ![2](https://github.com/user-attachments/assets/6e861e94-41f4-4f26-9734-f846b8d447dc)
 
